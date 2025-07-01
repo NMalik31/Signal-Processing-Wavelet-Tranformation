@@ -16,7 +16,7 @@ This project utilizes machine learning techniques to predict the velocity of son
 
 ## File Structure
 
-- `Project_64_Sonic_Wave_Velocity_Predictor.ipynb` — Main Jupyter notebook with code, analysis, and results
+- `Wavelet Transformation project.ipynb` — Main Jupyter notebook with code, analysis, and results
 - `train.csv` — Training data (not included; see below)
 - `test.csv` — Test data (not included; see below)
 
